@@ -1,0 +1,1481 @@
+{"level":"info","msg":"Logger started","time":"26-11-2023 11:03:18"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"26-11-2023 11:03:18"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"26-11-2023 11:03:18"}
+{"level":"info","msg":"Constants initialized successfully","time":"26-11-2023 11:03:18"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"26-11-2023 11:03:18"}
+{"level":"info","msg":"Redis updated successfully","time":"26-11-2023 11:03:18"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"26-11-2023 11:03:18"}
+{"level":"info","msg":"Server started","time":"26-11-2023 11:03:18"}
+{"duration":44750,"ip":"192.168.65.1","level":"info","method":"OPTIONS","msg":"Request","path":"/api/user/auth","status":200,"time":"26-11-2023 11:09:58"}
+{"controller":"api/user/auth [POST]","level":"error","msg":"Error in getting token:could not retrieve token","time":"26-11-2023 11:09:58"}
+{"duration":247029334,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/user/auth","status":500,"time":"26-11-2023 11:09:58"}
+{"level":"info","msg":"Logger started","time":"26-11-2023 11:11:34"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"26-11-2023 11:11:34"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"26-11-2023 11:11:34"}
+{"level":"info","msg":"Constants initialized successfully","time":"26-11-2023 11:11:34"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"26-11-2023 11:11:34"}
+{"level":"info","msg":"Redis updated successfully","time":"26-11-2023 11:11:34"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"26-11-2023 11:11:34"}
+{"level":"info","msg":"Server started","time":"26-11-2023 11:11:34"}
+{"duration":116750,"ip":"192.168.65.1","level":"info","method":"OPTIONS","msg":"Request","path":"/api/user/auth","status":200,"time":"26-11-2023 11:12:06"}
+{"controller":"api/user/auth [POST]","level":"error","msg":"Error in getting token:could not retrieve token","time":"26-11-2023 11:12:07"}
+{"duration":214773250,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/user/auth","status":500,"time":"26-11-2023 11:12:07"}
+{"controller":"api/user/auth [POST]","level":"error","msg":"Error in getting token:could not retrieve token","time":"26-11-2023 11:12:19"}
+{"duration":70950708,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/user/auth","status":500,"time":"26-11-2023 11:12:19"}
+{"level":"info","msg":"Logger started","time":"26-11-2023 11:15:19"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"26-11-2023 11:15:19"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"26-11-2023 11:15:20"}
+{"level":"info","msg":"Constants initialized successfully","time":"26-11-2023 11:15:20"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"26-11-2023 11:15:20"}
+{"level":"info","msg":"Redis updated successfully","time":"26-11-2023 11:15:20"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"26-11-2023 11:15:20"}
+{"level":"info","msg":"Server started","time":"26-11-2023 11:15:20"}
+{"duration":96833,"ip":"192.168.65.1","level":"info","method":"OPTIONS","msg":"Request","path":"/api/user/auth","status":200,"time":"26-11-2023 11:16:03"}
+{"controller":"api/user/auth [POST]","level":"error","msg":"Error in getting token:could not retrieve token","time":"26-11-2023 11:16:03"}
+{"duration":316119375,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/user/auth","status":500,"time":"26-11-2023 11:16:03"}
+{"level":"info","msg":"Logger started","time":"26-11-2023 11:19:00"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"26-11-2023 11:19:00"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"26-11-2023 11:19:00"}
+{"level":"info","msg":"Constants initialized successfully","time":"26-11-2023 11:19:00"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"26-11-2023 11:19:00"}
+{"level":"info","msg":"Redis updated successfully","time":"26-11-2023 11:19:00"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"26-11-2023 11:19:00"}
+{"level":"info","msg":"Server started","time":"26-11-2023 11:19:00"}
+{"duration":115708,"ip":"192.168.65.1","level":"info","method":"OPTIONS","msg":"Request","path":"/api/user/auth","status":200,"time":"26-11-2023 11:19:24"}
+{"controller":"api/user/auth [POST]","level":"error","msg":"Error in getting token:could not retrieve token","time":"26-11-2023 11:19:24"}
+{"duration":229738042,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/user/auth","status":500,"time":"26-11-2023 11:19:24"}
+{"controller":"api/user/auth [POST]","level":"error","msg":"Error in getting token:could not retrieve token","time":"26-11-2023 11:19:38"}
+{"duration":74426084,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/user/auth","status":500,"time":"26-11-2023 11:19:38"}
+{"level":"info","msg":"Logger started","time":"29-11-2023 02:08:09"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-11-2023 02:08:09"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-11-2023 02:08:09"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-11-2023 02:08:09"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-11-2023 02:08:09"}
+{"level":"info","msg":"Redis updated successfully","time":"29-11-2023 02:08:09"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-11-2023 02:08:09"}
+{"level":"info","msg":"Server started","time":"29-11-2023 02:08:09"}
+{"level":"info","msg":"Logger started","time":"28-12-2023 22:43:28"}
+{"level":"info","msg":"Logger started","time":"28-12-2023 22:50:07"}
+{"level":"info","msg":"Logger started","time":"28-12-2023 22:55:45"}
+{"level":"info","msg":"Logger started","time":"28-12-2023 22:56:09"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 19:51:17"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 20:28:33"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 20:29:46"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 20:29:51"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 20:31:54"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:11:15"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:39:36"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:40:02"}
+{"function":"ConnectRedisDB","level":"error","msg":"dial tcp: lookup arcadia_23_redis: no such host","time":"29-12-2023 21:40:03"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:48:50"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:48:50"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:48:50"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:48:50"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:48:50"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:48:50"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:48:50"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:48:50"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:53:37"}
+{"level":"error","msg":"Timeout of 2s\n","time":"29-12-2023 21:53:39"}
+{"level":"error","msg":"Server exiting","time":"29-12-2023 21:53:39"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:56:20"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 16:28:54"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 16:28:54"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 16:28:54"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 16:28:54"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 16:28:54"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 16:28:54"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 16:28:54"}
+{"level":"info","msg":"Server started","time":"29-12-2023 16:28:54"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 22:05:33"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 16:49:20"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 16:49:20"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 16:49:20"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 16:49:20"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 16:49:20"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 16:49:20"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 16:49:20"}
+{"level":"info","msg":"Server started","time":"29-12-2023 16:49:20"}
+{"duration":7023875,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"29-12-2023 16:53:14"}
+{"duration":1840875,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/characters","status":404,"time":"29-12-2023 16:54:40"}
+{"duration":2700458,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/see","status":404,"time":"29-12-2023 16:55:17"}
+{"duration":1074833,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/see","status":404,"time":"29-12-2023 16:55:25"}
+{"duration":951209,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"29-12-2023 16:55:31"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 22:29:13"}
+{"duration":2011459,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/swagger/index.html","status":404,"time":"29-12-2023 17:02:59"}
+{"duration":1461708,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/swagger.json","status":404,"time":"29-12-2023 17:03:21"}
+{"duration":3031333,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"29-12-2023 17:08:54"}
+{"duration":1286542,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/swagger","status":404,"time":"29-12-2023 17:09:26"}
+{"duration":1268500,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/swagger/index.html","status":404,"time":"29-12-2023 17:09:41"}
+{"duration":3581625,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/swagger/doc.json","status":404,"time":"29-12-2023 17:11:23"}
+{"duration":2806167,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"29-12-2023 17:22:18"}
+{"duration":4093833,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/admin/constants","status":401,"time":"29-12-2023 17:22:27"}
+{"duration":2121042,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"29-12-2023 17:24:20"}
+{"duration":1020497334,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/admin/login","status":200,"time":"29-12-2023 17:33:33"}
+{"duration":3759083,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/admin/constants","status":401,"time":"29-12-2023 17:36:01"}
+{"duration":750041,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/admin/login","status":404,"time":"29-12-2023 17:36:14"}
+{"duration":1022692833,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/admin/login","status":200,"time":"29-12-2023 17:36:22"}
+{"duration":16581042,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/admin/constants","status":200,"time":"29-12-2023 17:48:39"}
+{"duration":14300792,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/minicon/","status":200,"time":"29-12-2023 17:52:01"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 18:37:41"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 19:32:37"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 19:32:37"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 19:32:37"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 19:32:37"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 19:32:37"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 19:32:37"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 19:32:37"}
+{"level":"info","msg":"Server started","time":"29-12-2023 19:32:37"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 19:32:48"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 19:32:49"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 19:32:49"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 19:32:49"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 19:32:49"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 19:32:49"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 19:32:49"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 19:32:49"}
+{"level":"info","msg":"Server started","time":"29-12-2023 19:32:49"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 19:32:50"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 19:32:52"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 19:32:52"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 19:32:52"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 19:32:52"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 19:32:52"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 19:32:52"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 19:32:52"}
+{"level":"info","msg":"Server started","time":"29-12-2023 19:32:52"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 19:33:14"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 19:33:15"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 19:33:15"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 19:33:15"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 19:33:15"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 19:33:15"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 19:33:15"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 19:33:15"}
+{"level":"info","msg":"Server started","time":"29-12-2023 19:33:15"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 19:34:54"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 19:35:08"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 19:35:08"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 19:35:08"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 19:35:08"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 19:35:08"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 19:35:08"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 19:35:08"}
+{"level":"info","msg":"Server started","time":"29-12-2023 19:35:08"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 19:36:51"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 19:36:53"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 19:36:53"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 19:36:53"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 19:36:53"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 19:36:53"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 19:36:53"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 19:36:53"}
+{"level":"info","msg":"Server started","time":"29-12-2023 19:36:53"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 19:39:26"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 19:39:47"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 19:39:47"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 19:39:47"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 19:39:47"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 19:39:47"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 19:39:47"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 19:39:47"}
+{"level":"info","msg":"Server started","time":"29-12-2023 19:39:47"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 19:39:58"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 19:40:00"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 19:40:00"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 19:40:00"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 19:40:00"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 19:40:00"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 19:40:00"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 19:40:00"}
+{"level":"info","msg":"Server started","time":"29-12-2023 19:40:00"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 19:41:34"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 19:46:00"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 19:46:00"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 19:46:00"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 19:46:00"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 19:46:00"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 19:46:00"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 19:46:00"}
+{"level":"info","msg":"Server started","time":"29-12-2023 19:46:00"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 20:37:01"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 20:37:03"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 20:37:03"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 20:37:03"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 20:37:03"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 20:37:03"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 20:37:03"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 20:37:03"}
+{"level":"info","msg":"Server started","time":"29-12-2023 20:37:03"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 20:37:47"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 20:37:48"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 20:37:48"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 20:37:49"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 20:37:49"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 20:37:49"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 20:37:49"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 20:37:49"}
+{"level":"info","msg":"Server started","time":"29-12-2023 20:37:49"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 20:56:53"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 20:56:54"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 20:56:54"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 20:56:55"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 20:56:55"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 20:56:55"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 20:56:55"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 20:56:55"}
+{"level":"info","msg":"Server started","time":"29-12-2023 20:56:55"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 20:59:52"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 20:59:54"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 20:59:54"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 20:59:54"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 20:59:54"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 20:59:54"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 20:59:54"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 20:59:54"}
+{"level":"info","msg":"Server started","time":"29-12-2023 20:59:54"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:05:54"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:05:55"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:05:55"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:05:55"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:05:55"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:05:55"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:05:55"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:05:55"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:05:55"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:21:31"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:26:06"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:26:06"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:26:06"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:26:06"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:26:06"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:26:06"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:26:06"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:26:06"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:26:54"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:26:56"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:26:56"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:26:56"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:26:56"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:26:56"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:26:56"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:26:56"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:26:56"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:28:03"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:28:05"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:28:05"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:28:05"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:28:05"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:28:05"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:28:05"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:28:05"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:28:05"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:28:34"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:29:04"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:29:04"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:29:04"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:29:04"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:29:04"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:29:04"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:29:04"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:29:04"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:34:02"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:34:04"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:34:04"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:34:04"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:34:04"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:34:04"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:34:04"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:34:04"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:34:04"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:35:01"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:38:22"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:38:22"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:38:22"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:38:22"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:38:22"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:38:22"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:38:22"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:38:22"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:39:02"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:39:04"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:39:04"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:39:04"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:39:04"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:39:04"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:39:04"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:39:04"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:39:04"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:42:19"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:42:21"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:42:21"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:42:21"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:42:21"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:42:21"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:42:21"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:42:21"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:42:21"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:50:18"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:50:18"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:50:19"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:50:19"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:50:19"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:50:19"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:50:19"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:50:19"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:57:14"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:57:15"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:57:15"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:57:16"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:57:16"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:57:16"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:57:16"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:57:16"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:57:16"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 21:58:09"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 21:58:10"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 21:58:10"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 21:58:11"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 21:58:11"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 21:58:11"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 21:58:11"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 21:58:11"}
+{"level":"info","msg":"Server started","time":"29-12-2023 21:58:11"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 22:02:35"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 22:02:35"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 22:02:35"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 22:02:35"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 22:02:35"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 22:02:35"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 22:02:35"}
+{"level":"info","msg":"Server started","time":"29-12-2023 22:02:35"}
+{"duration":6805167,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"29-12-2023 22:03:23"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 03:34:49"}
+{"level":"error","msg":"Shutdown Server ...","time":"29-12-2023 22:09:45"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 22:09:47"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 22:09:47"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 22:10:33"}
+{"function":"ConnectRedisDB","level":"error","msg":"dial tcp: lookup arcadia_23_redis on 127.0.0.11:53: no such host","time":"29-12-2023 22:10:33"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 22:10:50"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 22:10:50"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 22:22:07"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 22:22:07"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 22:31:24"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 22:31:24"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 22:31:24"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 22:31:24"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 22:31:24"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 22:31:24"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 22:31:24"}
+{"level":"info","msg":"Server started","time":"29-12-2023 22:31:24"}
+{"level":"info","msg":"Logger started","time":"29-12-2023 22:32:27"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"29-12-2023 22:32:27"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"29-12-2023 22:32:27"}
+{"level":"info","msg":"Constants initialized successfully","time":"29-12-2023 22:32:27"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"29-12-2023 22:32:27"}
+{"level":"info","msg":"Redis updated successfully","time":"29-12-2023 22:32:27"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"29-12-2023 22:32:27"}
+{"level":"info","msg":"Server started","time":"29-12-2023 22:32:27"}
+{"duration":11551833,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"29-12-2023 22:33:02"}
+{"duration":870584,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"29-12-2023 22:33:07"}
+{"duration":2255292,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/minicon/","status":401,"time":"29-12-2023 22:34:12"}
+{"duration":1012253709,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/admin/login","status":200,"time":"29-12-2023 22:34:56"}
+{"duration":18252459,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/minicon/","status":200,"time":"29-12-2023 22:35:36"}
+{"duration":7685250,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy","status":200,"time":"29-12-2023 22:36:51"}
+{"duration":10455500,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"30-12-2023 06:01:51"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 08:06:48"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 08:06:50"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 08:06:50"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 08:10:00"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 08:10:00"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 08:12:59"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 08:12:59"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 08:14:04"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 08:14:04"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 08:17:17"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 08:17:17"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 08:17:40"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 08:17:40"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 08:21:59"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 08:21:59"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 08:21:59"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 08:21:59"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 08:21:59"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 08:21:59"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 08:21:59"}
+{"level":"info","msg":"Server started","time":"30-12-2023 08:21:59"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 08:22:18"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 08:22:20"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 08:22:20"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 08:22:20"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 08:22:20"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 08:22:20"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 08:22:20"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 08:22:20"}
+{"level":"info","msg":"Server started","time":"30-12-2023 08:22:20"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 08:23:34"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 08:23:36"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 08:23:36"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 08:23:36"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 08:23:36"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 08:23:36"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 08:23:36"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 08:23:36"}
+{"level":"info","msg":"Server started","time":"30-12-2023 08:23:36"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 08:30:15"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 08:30:16"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 08:30:16"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 08:30:17"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 08:30:17"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 08:30:17"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 08:30:17"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 08:30:17"}
+{"level":"info","msg":"Server started","time":"30-12-2023 08:30:17"}
+{"duration":6974125,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/auction/tobuy","status":401,"time":"30-12-2023 08:54:21"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 09:50:29"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 09:50:31"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 09:50:31"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 09:50:31"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 09:50:31"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 09:50:31"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 09:50:31"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 09:50:31"}
+{"level":"info","msg":"Server started","time":"30-12-2023 09:50:31"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 10:10:19"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 10:10:21"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 10:10:21"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 10:10:21"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 10:10:21"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 10:10:22"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 10:10:22"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 10:10:22"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 10:10:22"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 10:10:22"}
+{"level":"info","msg":"Server started","time":"30-12-2023 10:10:22"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 11:22:43"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 11:22:45"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 11:22:45"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 11:22:45"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 11:22:45"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 11:22:45"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 11:22:45"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 11:22:45"}
+{"level":"info","msg":"Server started","time":"30-12-2023 11:22:45"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 11:22:49"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 11:22:50"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 11:22:50"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 11:22:51"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 11:22:51"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 11:22:51"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 11:22:51"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 11:22:51"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 11:22:51"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 11:22:51"}
+{"level":"info","msg":"Server started","time":"30-12-2023 11:22:51"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 11:23:56"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 11:23:58"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 11:23:58"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 11:23:58"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 11:23:58"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 11:23:58"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 11:23:58"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 11:23:58"}
+{"level":"info","msg":"Server started","time":"30-12-2023 11:23:58"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 11:53:06"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 11:53:07"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 11:53:07"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 11:53:08"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 11:53:08"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 11:53:08"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 11:53:08"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 11:53:08"}
+{"level":"info","msg":"Server started","time":"30-12-2023 11:53:08"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 11:55:22"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 11:55:24"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 11:55:24"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 11:55:24"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 11:55:24"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 11:55:24"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 11:55:24"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 11:55:24"}
+{"level":"info","msg":"Server started","time":"30-12-2023 11:55:24"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 11:59:02"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 11:59:04"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 11:59:04"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 11:59:04"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 11:59:04"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 11:59:04"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 11:59:04"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 11:59:04"}
+{"level":"info","msg":"Server started","time":"30-12-2023 11:59:04"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 12:00:36"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 12:00:37"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 12:00:37"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 12:00:38"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 12:00:38"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 12:00:38"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 12:00:38"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 12:00:38"}
+{"level":"info","msg":"Server started","time":"30-12-2023 12:00:38"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 12:01:40"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 12:01:42"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 12:01:42"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 12:01:42"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 12:01:42"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 12:01:42"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 12:01:42"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 12:01:42"}
+{"level":"info","msg":"Server started","time":"30-12-2023 12:01:42"}
+{"duration":12603416,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/auction/tobuy","status":401,"time":"30-12-2023 12:26:11"}
+{"duration":1022132043,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/admin/login","status":200,"time":"30-12-2023 12:26:24"}
+{"duration":13730209,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy","status":200,"time":"30-12-2023 12:27:05"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 12:29:27"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 12:29:28"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 12:29:28"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 12:29:29"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 12:29:29"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 12:29:29"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 12:29:29"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 12:29:29"}
+{"level":"info","msg":"Server started","time":"30-12-2023 12:29:29"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 12:31:37"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 12:31:38"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 12:31:38"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 12:31:39"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 12:31:39"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 12:31:39"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 12:31:39"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 12:31:39"}
+{"level":"info","msg":"Server started","time":"30-12-2023 12:31:39"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 12:33:18"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 12:33:20"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 12:33:20"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 12:33:20"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 12:33:20"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 12:33:20"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 12:33:20"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 12:33:20"}
+{"level":"info","msg":"Server started","time":"30-12-2023 12:33:20"}
+{"duration":13399500,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy","status":200,"time":"30-12-2023 12:33:31"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 12:36:01"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 12:36:03"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 12:36:03"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 12:36:03"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 12:36:03"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 12:36:03"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 12:36:03"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 12:36:03"}
+{"level":"info","msg":"Server started","time":"30-12-2023 12:36:03"}
+{"duration":13886208,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy","status":200,"time":"30-12-2023 12:36:08"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 13:48:53"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 13:48:54"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 13:48:54"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 13:48:55"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 13:48:55"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 13:48:55"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 13:48:55"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 13:48:55"}
+{"level":"info","msg":"Server started","time":"30-12-2023 13:48:55"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 13:49:01"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 13:49:03"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 13:49:03"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 13:49:03"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 13:49:03"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 13:49:03"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 13:49:03"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 13:49:03"}
+{"level":"info","msg":"Server started","time":"30-12-2023 13:49:03"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 13:49:24"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 13:49:26"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 13:49:26"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 13:49:26"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 13:49:26"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 13:49:26"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 13:49:26"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 13:49:26"}
+{"level":"info","msg":"Server started","time":"30-12-2023 13:49:26"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 13:55:37"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 13:55:39"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 13:55:39"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 13:55:39"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 13:55:39"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 13:55:39"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 13:55:39"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 13:55:39"}
+{"level":"info","msg":"Server started","time":"30-12-2023 13:55:39"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 14:08:50"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 14:08:50"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 14:08:51"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 14:08:51"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 14:08:51"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 14:08:51"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 14:08:51"}
+{"level":"info","msg":"Server started","time":"30-12-2023 14:08:51"}
+{"duration":25600125,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy/2","status":200,"time":"30-12-2023 14:09:09"}
+{"duration":7994667,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy/1","status":200,"time":"30-12-2023 14:10:41"}
+{"duration":7434542,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy/2","status":200,"time":"30-12-2023 14:10:57"}
+{"duration":9683375,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy/1","status":200,"time":"30-12-2023 14:11:15"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 14:13:13"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 14:14:40"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 14:14:40"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 14:14:40"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 14:14:40"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 14:14:40"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 14:14:40"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 14:14:40"}
+{"level":"info","msg":"Server started","time":"30-12-2023 14:14:40"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 14:14:55"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 14:15:37"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 14:15:37"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 14:15:37"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 14:15:37"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 14:15:37"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 14:15:37"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 14:15:37"}
+{"level":"info","msg":"Server started","time":"30-12-2023 14:15:37"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 14:16:17"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 14:16:18"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 14:16:18"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 14:16:19"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 14:16:19"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 14:16:19"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 14:16:19"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 14:16:19"}
+{"level":"info","msg":"Server started","time":"30-12-2023 14:16:19"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 14:17:31"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 14:17:33"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 14:17:33"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 14:17:33"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 14:17:33"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 14:17:33"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 14:17:33"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 14:17:33"}
+{"level":"info","msg":"Server started","time":"30-12-2023 14:17:33"}
+{"duration":7156333,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/auction/auctioned/past/1","status":404,"time":"30-12-2023 14:19:06"}
+{"duration":2696125,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/auction/auctioned/past/1","status":404,"time":"30-12-2023 14:20:04"}
+{"duration":1085125,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/auction/tobuy/2","status":401,"time":"30-12-2023 14:20:16"}
+{"duration":550167,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/admin/login","status":404,"time":"30-12-2023 14:20:33"}
+{"duration":1015695251,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/admin/login","status":200,"time":"30-12-2023 14:21:20"}
+{"duration":1007597583,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/admin/login","status":200,"time":"30-12-2023 14:21:45"}
+{"duration":993625,"ip":"192.168.65.1","level":"warning","method":"POST","msg":"Request","path":"/api/auction/tobuy/1","status":404,"time":"30-12-2023 14:21:59"}
+{"duration":23198625,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy/1","status":200,"time":"30-12-2023 14:22:09"}
+{"duration":3958250,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy/2","status":200,"time":"30-12-2023 14:22:14"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 14:22:29"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 14:22:30"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 14:22:30"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 14:22:31"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 14:22:31"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 14:22:31"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 14:22:31"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 14:22:31"}
+{"level":"info","msg":"Server started","time":"30-12-2023 14:22:31"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 14:23:26"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 14:23:27"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 14:23:27"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 14:23:28"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 14:23:28"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 14:23:28"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 14:23:28"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 14:23:28"}
+{"level":"info","msg":"Server started","time":"30-12-2023 14:23:28"}
+{"duration":35707625,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/auctioned/past/1","status":200,"time":"30-12-2023 14:24:06"}
+{"duration":7725375,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/auctioned/past/2","status":200,"time":"30-12-2023 14:24:15"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 14:24:42"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 14:24:44"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 14:24:44"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 14:24:44"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 14:24:44"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 14:24:44"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 14:24:44"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 14:24:44"}
+{"level":"info","msg":"Server started","time":"30-12-2023 14:24:44"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 14:24:57"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 14:24:59"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 14:24:59"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 14:24:59"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 14:24:59"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 14:24:59"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 14:24:59"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 14:24:59"}
+{"level":"info","msg":"Server started","time":"30-12-2023 14:24:59"}
+{"duration":23528291,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/auctioned/current/1","status":200,"time":"30-12-2023 14:25:49"}
+{"duration":3273833,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/auctioned/current/2","status":200,"time":"30-12-2023 14:26:00"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 15:16:00"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 16:01:46"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 16:01:46"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 16:01:46"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 16:01:46"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 16:01:46"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 16:01:46"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 16:01:46"}
+{"level":"info","msg":"Server started","time":"30-12-2023 16:01:46"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 16:05:02"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 16:05:04"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 16:05:04"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 16:05:04"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 16:05:04"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 16:05:04"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 16:05:04"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 16:05:04"}
+{"level":"info","msg":"Server started","time":"30-12-2023 16:05:04"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 16:08:30"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 16:09:20"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 16:09:20"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 16:09:20"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 16:09:20"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 16:09:20"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 16:09:20"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 16:09:20"}
+{"level":"info","msg":"Server started","time":"30-12-2023 16:09:20"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 16:10:19"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 16:10:20"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 16:10:20"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 16:10:21"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 16:10:21"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 16:10:21"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 16:10:21"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 16:10:21"}
+{"level":"info","msg":"Server started","time":"30-12-2023 16:10:21"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 16:11:32"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 16:11:34"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 16:11:34"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 16:11:34"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 16:11:34"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 16:11:34"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 16:11:34"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 16:11:34"}
+{"level":"info","msg":"Server started","time":"30-12-2023 16:11:34"}
+{"duration":6676458,"ip":"192.168.65.1","level":"warning","method":"POST","msg":"Request","path":"/api/auction/sell","status":400,"time":"30-12-2023 16:12:00"}
+{"duration":28436250,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 16:13:29"}
+{"duration":22172375,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 16:21:07"}
+{"duration":8919750,"ip":"192.168.65.1","level":"warning","method":"POST","msg":"Request","path":"/api/auction/tobuy/1","status":404,"time":"30-12-2023 17:13:32"}
+{"duration":15440042,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy/1","status":200,"time":"30-12-2023 17:13:42"}
+{"duration":5666209,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/tobuy/2","status":200,"time":"30-12-2023 17:13:54"}
+{"duration":3489333,"ip":"192.168.65.1","level":"warning","method":"GET","msg":"Request","path":"/api/auction/auctioned/past","status":404,"time":"30-12-2023 17:14:09"}
+{"duration":7399375,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/auctioned/past/1","status":200,"time":"30-12-2023 17:14:14"}
+{"duration":7769417,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/auctioned/past/2","status":200,"time":"30-12-2023 17:14:19"}
+{"duration":10894083,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/api/auction/auctioned/current/1","status":200,"time":"30-12-2023 17:14:38"}
+{"duration":27763083,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 17:15:26"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 17:18:55"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 17:18:57"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 17:18:57"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 17:18:57"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 17:18:57"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 17:18:58"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 17:18:58"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 17:18:58"}
+{"level":"info","msg":"Server started","time":"30-12-2023 17:18:58"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 17:20:24"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 17:20:24"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 17:20:25"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 17:20:25"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 17:20:25"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 17:20:25"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 17:20:25"}
+{"level":"info","msg":"Server started","time":"30-12-2023 17:20:25"}
+{"duration":6796875,"ip":"192.168.65.1","level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"30-12-2023 17:20:41"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 17:25:44"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 17:25:46"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 17:25:46"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 17:25:46"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 17:25:46"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 17:25:46"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 17:25:46"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 17:25:46"}
+{"level":"info","msg":"Server started","time":"30-12-2023 17:25:46"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 17:25:52"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 17:25:53"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 17:25:53"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 17:25:53"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 17:25:53"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 17:25:53"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 17:25:53"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 17:25:53"}
+{"level":"info","msg":"Server started","time":"30-12-2023 17:25:53"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 17:27:18"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 17:27:20"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 17:27:20"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 17:27:20"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 17:27:20"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 17:27:20"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 17:27:20"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 17:27:20"}
+{"level":"info","msg":"Server started","time":"30-12-2023 17:27:20"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 17:27:56"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 17:27:58"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 17:27:58"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 17:27:58"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 17:27:58"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 17:27:58"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 17:27:58"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 17:27:58"}
+{"level":"info","msg":"Server started","time":"30-12-2023 17:27:58"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 17:28:12"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 17:28:14"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 17:28:14"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 17:28:14"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 17:28:14"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 17:28:14"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 17:28:14"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 17:28:14"}
+{"level":"info","msg":"Server started","time":"30-12-2023 17:28:14"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 17:28:22"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 17:28:24"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 17:28:24"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 17:28:24"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 17:28:24"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 17:28:24"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 17:28:24"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 17:28:24"}
+{"level":"info","msg":"Server started","time":"30-12-2023 17:28:24"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 17:57:18"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 17:57:20"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 17:57:20"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 17:57:20"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 17:57:20"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 17:57:20"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 17:57:20"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 17:57:20"}
+{"level":"info","msg":"Server started","time":"30-12-2023 17:57:20"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 18:01:38"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 18:01:40"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 18:01:40"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 18:01:40"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 18:01:40"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 18:01:40"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 18:01:40"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 18:01:40"}
+{"level":"info","msg":"Server started","time":"30-12-2023 18:01:40"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 18:03:23"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 18:03:25"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 18:03:25"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 18:03:26"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 18:03:26"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 18:03:26"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 18:03:26"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 18:03:26"}
+{"level":"info","msg":"Server started","time":"30-12-2023 18:03:26"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 18:08:48"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 18:08:49"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 18:08:49"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 18:08:50"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 18:08:50"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 18:08:50"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 18:08:50"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 18:08:50"}
+{"level":"info","msg":"Server started","time":"30-12-2023 18:08:50"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 18:10:35"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 18:10:37"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 18:10:37"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 18:10:37"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 18:10:37"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 18:10:37"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 18:10:37"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 18:10:37"}
+{"level":"info","msg":"Server started","time":"30-12-2023 18:10:37"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 18:16:26"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 18:16:28"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 18:16:28"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 18:16:28"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 18:16:28"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 18:16:28"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 18:16:28"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 18:16:28"}
+{"level":"info","msg":"Server started","time":"30-12-2023 18:16:28"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 18:20:21"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 18:24:12"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 18:24:12"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 18:24:12"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 18:24:12"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 18:24:12"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 18:24:12"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 18:24:12"}
+{"level":"info","msg":"Server started","time":"30-12-2023 18:24:12"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 18:27:03"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 18:27:47"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 18:27:47"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 18:27:48"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 18:27:48"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 18:27:48"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 18:27:48"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 18:27:48"}
+{"level":"info","msg":"Server started","time":"30-12-2023 18:27:48"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 18:34:52"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 18:34:54"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 18:34:54"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 18:34:54"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 18:34:54"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 18:34:54"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 18:34:54"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 18:34:54"}
+{"level":"info","msg":"Server started","time":"30-12-2023 18:34:54"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 18:43:01"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 19:20:23"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 19:20:23"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 19:20:24"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 19:20:24"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 19:20:24"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 19:20:24"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 19:20:24"}
+{"level":"info","msg":"Server started","time":"30-12-2023 19:20:24"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 19:22:00"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 19:22:02"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 19:22:02"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 19:22:02"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 19:22:02"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 19:22:02"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 19:22:02"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 19:22:02"}
+{"level":"info","msg":"Server started","time":"30-12-2023 19:22:02"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 19:22:25"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 19:22:26"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 19:22:26"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 19:22:27"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 19:22:27"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 19:22:27"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 19:22:27"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 19:22:27"}
+{"level":"info","msg":"Server started","time":"30-12-2023 19:22:27"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 19:31:05"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 19:31:07"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 19:31:07"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 19:31:07"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 19:31:07"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 19:31:07"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 19:31:07"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 19:31:07"}
+{"level":"info","msg":"Server started","time":"30-12-2023 19:31:07"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 19:35:52"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 19:35:54"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 19:35:54"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 19:35:54"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 19:35:54"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 19:35:54"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 19:35:54"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 19:35:54"}
+{"level":"info","msg":"Server started","time":"30-12-2023 19:35:54"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 19:36:03"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 19:36:04"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 19:36:04"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 19:36:05"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 19:36:05"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 19:36:05"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 19:36:05"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 19:36:05"}
+{"level":"info","msg":"Server started","time":"30-12-2023 19:36:05"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 19:37:47"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 19:37:49"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 19:37:49"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 19:37:49"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 19:37:49"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 19:37:49"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 19:37:49"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 19:37:49"}
+{"level":"info","msg":"Server started","time":"30-12-2023 19:37:49"}
+{"duration":9059875,"ip":"192.168.65.1","level":"warning","method":"POST","msg":"Request","path":"/api/auction/sell","status":401,"time":"30-12-2023 19:41:32"}
+{"duration":1519084,"ip":"192.168.65.1","level":"warning","method":"POST","msg":"Request","path":"/api/admin/login","status":400,"time":"30-12-2023 19:41:51"}
+{"duration":1013856959,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/admin/login","status":200,"time":"30-12-2023 19:42:53"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"record not found","time":"30-12-2023 19:47:01"}
+{"duration":10749583,"ip":"192.168.65.1","level":"warning","method":"POST","msg":"Request","path":"/api/auction/sell","status":404,"time":"30-12-2023 19:47:01"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"Error 1054 (42S22): Unknown column 'auctions.minicon_id' in 'field list'","time":"30-12-2023 19:47:17"}
+{"duration":8019917,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/auction/sell","status":500,"time":"30-12-2023 19:47:17"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 19:48:56"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 19:48:57"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 19:48:57"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 19:48:58"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 19:48:58"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 19:48:58"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 19:48:58"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 19:48:58"}
+{"level":"info","msg":"Server started","time":"30-12-2023 19:48:58"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 19:49:46"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 19:49:48"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 19:49:48"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 19:49:48"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 19:49:48"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 19:49:48"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 19:49:48"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 19:49:48"}
+{"level":"info","msg":"Server started","time":"30-12-2023 19:49:48"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"Error 1054 (42S22): Unknown column 'auctions.minicon_id' in 'field list'","time":"30-12-2023 19:49:53"}
+{"duration":10522542,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/auction/sell","status":500,"time":"30-12-2023 19:49:53"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 19:55:08"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 19:55:10"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 19:55:10"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 19:55:10"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 19:55:10"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 19:55:10"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 19:55:10"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 19:55:10"}
+{"level":"info","msg":"Server started","time":"30-12-2023 19:55:10"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"Error 1054 (42S22): Unknown column 'auctions.minicon_id' in 'field list'","time":"30-12-2023 19:55:20"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"SQL Query:\u0026{0x4001447290 \u003cnil\u003e auctions {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 0 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 0 0 0 0 0 {0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}  0 0 0 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   false   } 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   }} 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}  0 0   0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}  }} false} 0 0 0 } false 0x40012442e8 \u003c[]controller.LFactorRequest Value\u003e map[FROM:{FROM \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {[] []} \u003cnil\u003e} SELECT:{SELECT \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {false [{auctions base_price  false} {auctions current_price  false} {auctions minicon_id  false}] \u003cnil\u003e} \u003cnil\u003e} WHERE:{WHERE \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {[{created_at \u003e= ? [2023-12-30 13:55:20.511177722 +0000 UTC m=-21589.572536119] false} {{~~~ct~~~ deleted_at  false} \u003cnil\u003e}]} \u003cnil\u003e} soft_delete_enabled:{ \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e}] [] false [] [] [] map[OwnedMinicon:[] OwnedMinicon.Minicon:[]] {{0 0} {\u003cnil\u003e} map[] 0} 0x40004172b0 github.com/delta/arcadia-backend/server/model.Auction context.Background false false {\u003cnil\u003e []} [] 0 [] [] []}","time":"30-12-2023 19:55:20"}
+{"duration":12850292,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/auction/sell","status":500,"time":"30-12-2023 19:55:20"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"Error 1054 (42S22): Unknown column 'auctions.minicon_id' in 'field list'","time":"30-12-2023 19:59:09"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"SQL Query:\u0026{0x40014470b0 \u003cnil\u003e auctions {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 0 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 0 0 0 0 0 {0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}  0 0 0 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   false   } 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   }} 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}  0 0   0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}  }} false} 0 0 0 } false 0x40012442b8 \u003c[]controller.LFactorRequest Value\u003e map[FROM:{FROM \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {[] []} \u003cnil\u003e} SELECT:{SELECT \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {false [{auctions base_price  false} {auctions current_price  false} {auctions minicon_id  false}] \u003cnil\u003e} \u003cnil\u003e} WHERE:{WHERE \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {[{created_at \u003e= ? [2023-12-30 13:59:09.534392508 +0000 UTC m=-21360.549281014] false} {{~~~ct~~~ deleted_at  false} \u003cnil\u003e}]} \u003cnil\u003e} soft_delete_enabled:{ \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e}] [] false [] [] [] map[OwnedMinicon:[] OwnedMinicon.Minicon:[]] {{0 0} {\u003cnil\u003e} map[] 0} 0x40004172b0 github.com/delta/arcadia-backend/server/model.Auction context.Background false false {\u003cnil\u003e []} [] 0 [] [] []}","time":"30-12-2023 19:59:09"}
+{"duration":15854750,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/auction/sell","status":500,"time":"30-12-2023 19:59:09"}
+{"duration":1429958,"ip":"192.168.65.1","level":"warning","method":"POST","msg":"Request","path":"/api/auction/sell","status":400,"time":"30-12-2023 19:59:30"}
+{"duration":2816833,"ip":"192.168.65.1","level":"warning","method":"POST","msg":"Request","path":"/api/auction/sell","status":400,"time":"30-12-2023 19:59:43"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"Error 1054 (42S22): Unknown column 'auctions.minicon_id' in 'field list'","time":"30-12-2023 19:59:47"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"SQL Query:\u0026{0x40005150b0 \u003cnil\u003e auctions {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 0 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 0 0 0 0 0 {0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}  0 0 0 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   false   } 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   }} 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}  0 0   0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}  }} false} 0 0 0 } false 0x40011782d0 \u003c[]controller.LFactorRequest Value\u003e map[FROM:{FROM \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {[] []} \u003cnil\u003e} SELECT:{SELECT \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {false [{auctions base_price  false} {auctions current_price  false} {auctions minicon_id  false}] \u003cnil\u003e} \u003cnil\u003e} WHERE:{WHERE \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {[{created_at \u003e= ? [2023-12-30 13:59:47.165151303 +0000 UTC m=-21322.918342497] false} {{~~~ct~~~ deleted_at  false} \u003cnil\u003e}]} \u003cnil\u003e} soft_delete_enabled:{ \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e}] [] false [] [] [] map[OwnedMinicon:[] OwnedMinicon.Minicon:[]] {{0 0} {\u003cnil\u003e} map[] 0} 0x40004172b0 github.com/delta/arcadia-backend/server/model.Auction context.Background false false {\u003cnil\u003e []} [] 0 [] [] []}","time":"30-12-2023 19:59:47"}
+{"duration":11002542,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/auction/sell","status":500,"time":"30-12-2023 19:59:47"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:03:14"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:03:16"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:03:16"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:03:16"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:03:16"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:03:16"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:03:16"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:03:16"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:03:16"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"Error 1054 (42S22): Unknown column 'auctions.minicon_id' in 'field list'","time":"30-12-2023 20:03:22"}
+{"controller":"/api/auction/sell [POST]","level":"info","msg":"timeCap: 2023-12-30 14:03:22.102409625 +0000 UTC m=-21594.115580539","time":"30-12-2023 20:03:22"}
+{"controller":"/api/auction/sell [POST]","level":"info","msg":"SQL Query: \u0026{0x400001b650 \u003cnil\u003e auctions {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 0 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 0 0 0 0 0 {0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}  0 0 0 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   false   } 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   }} 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}  0 0   0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}  }} false} 0 0 0 } false 0x4000f54330 \u003c[]controller.LFactorRequest Value\u003e map[FROM:{FROM \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {[] []} \u003cnil\u003e} SELECT:{SELECT \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {false [{auctions base_price  false} {auctions current_price  false} {auctions minicon_id  false}] \u003cnil\u003e} \u003cnil\u003e} WHERE:{WHERE \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {[{created_at \u003e= ? [2023-12-30 14:03:22.102409625 +0000 UTC m=-21594.115580539] false} {{~~~ct~~~ deleted_at  false} \u003cnil\u003e}]} \u003cnil\u003e} soft_delete_enabled:{ \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e}] [] false [] [] [] map[OwnedMinicon:[] OwnedMinicon.Minicon:[]] {{0 0} {\u003cnil\u003e} map[] 0} 0x400015f450 github.com/delta/arcadia-backend/server/model.Auction context.Background false false {\u003cnil\u003e []} [] 0 [] [] []}","time":"30-12-2023 20:03:22"}
+{"duration":15020916,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/auction/sell","status":500,"time":"30-12-2023 20:03:22"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:04:51"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:04:53"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:04:53"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:04:53"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:04:53"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:04:53"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:04:53"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:04:53"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:04:53"}
+{"duration":1029123417,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/admin/login","status":200,"time":"30-12-2023 20:05:37"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"Error 1054 (42S22): Unknown column 'auctions.minicon_id' in 'field list'","time":"30-12-2023 20:06:17"}
+{"controller":"/api/auction/sell [POST]","level":"info","msg":"timeCap: 2023-12-30 14:06:17.129657845 +0000 UTC m=-21515.872907461","time":"30-12-2023 20:06:17"}
+{"controller":"/api/auction/sell [POST]","level":"info","msg":"SQL Query: \u0026{0x400041e990 \u003cnil\u003e auctions {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 0 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} 0 0 0 0 0 {0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}  0 0 0 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   false   } 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}   }} 0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}  0 0   0 {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}  }} false} 0 0 0 } false 0x4000f17578 \u003c[]controller.LFactorRequest Value\u003e map[FROM:{FROM \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {[] []} \u003cnil\u003e} SELECT:{SELECT \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {false [{auctions base_price  false} {auctions current_price  false} {auctions minicon_id  false}] \u003cnil\u003e} \u003cnil\u003e} WHERE:{WHERE \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e {[{created_at \u003e= ? [2023-12-30 14:06:17.129657845 +0000 UTC m=-21515.872907461] false} {{~~~ct~~~ deleted_at  false} \u003cnil\u003e}]} \u003cnil\u003e} soft_delete_enabled:{ \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e}] [] false [] [] [] map[OwnedMinicon:[] OwnedMinicon.Minicon:[]] {{0 0} {\u003cnil\u003e} map[] 0} 0x4000569450 github.com/delta/arcadia-backend/server/model.Auction context.Background false false {\u003cnil\u003e []} [] 0 [] [] []}","time":"30-12-2023 20:06:17"}
+{"duration":22029041,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/auction/sell","status":500,"time":"30-12-2023 20:06:17"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:06:33"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:07:30"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:07:30"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:07:30"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:07:30"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:07:30"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:07:30"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:07:30"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:07:30"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:08:02"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:08:04"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:08:04"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:08:04"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:08:04"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:08:04"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:08:04"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:08:04"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:08:04"}
+{"controller":"/api/auction/sell [POST]","level":"error","msg":"Error 1054 (42S22): Unknown column 'auctions.minicon_id' in 'field list'","time":"30-12-2023 20:08:11"}
+{"duration":15249000,"ip":"192.168.65.1","level":"error","method":"POST","msg":"Request","path":"/api/auction/sell","status":500,"time":"30-12-2023 20:08:11"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:12:53"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:13:41"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:13:41"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:13:41"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:13:41"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:13:41"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:13:41"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:13:41"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:13:41"}
+{"duration":47330834,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:13:53"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:15:22"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:15:24"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:15:24"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:15:24"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:15:24"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:15:24"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:15:24"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:15:24"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:15:24"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:18:12"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:18:14"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:18:14"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:18:14"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:18:14"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:18:14"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:18:14"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:18:14"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:18:14"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:18:30"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:18:32"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:18:32"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:18:32"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:18:32"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:18:32"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:18:32"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:18:32"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:18:32"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:19:36"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:19:38"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:19:38"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:19:38"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:19:38"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:19:38"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:19:38"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:19:38"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:19:38"}
+{"duration":22182083,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:19:43"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:20:10"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:20:12"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:20:12"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:20:12"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:20:12"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:20:12"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:20:12"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:20:12"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:20:12"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:24:36"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:24:37"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:24:37"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:24:38"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:24:38"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:24:38"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:24:38"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:24:38"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:24:38"}
+{"duration":34931791,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:25:24"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:29:09"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:29:11"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:29:11"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:29:11"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:29:11"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:29:11"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:29:11"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:29:11"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:29:11"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:29:41"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:29:43"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:29:43"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:29:43"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:29:43"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:29:43"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:29:43"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:29:43"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:29:43"}
+{"duration":22264375,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:30:13"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:30:55"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:30:56"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:30:56"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:30:57"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:30:57"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:30:57"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:30:57"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:30:57"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:30:57"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:31:59"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:32:00"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:32:00"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:32:01"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:32:01"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:32:01"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:32:01"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:32:01"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:32:01"}
+{"duration":29624208,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:32:11"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:32:34"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:32:36"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:32:36"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:32:36"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:32:36"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:32:36"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:32:36"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:32:36"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:32:36"}
+{"duration":17303542,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:32:50"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:34:29"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:34:30"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:34:30"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:34:31"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:34:31"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:34:31"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:34:31"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:34:31"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:34:31"}
+{"duration":11894000,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:34:41"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:35:33"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:36:28"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:36:28"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:36:28"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:36:28"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:36:28"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:36:28"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:36:28"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:36:28"}
+{"duration":14159667,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:36:41"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:37:21"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:37:23"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:37:23"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:37:23"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:37:23"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:37:23"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:37:23"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:37:23"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:37:23"}
+{"duration":15496417,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:37:33"}
+{"duration":35533083,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:37:59"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:38:58"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:39:00"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:39:00"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:39:01"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:39:01"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:39:01"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:39:01"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:39:01"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:39:01"}
+{"duration":37699833,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:39:14"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:39:43"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:39:44"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:39:44"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:39:45"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:39:45"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:39:45"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:39:45"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:39:45"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:39:45"}
+{"duration":13840500,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:39:48"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:40:06"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:40:08"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:40:08"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:40:08"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:40:08"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:40:08"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:40:08"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:40:08"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:40:08"}
+{"duration":26926500,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:40:20"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:45:11"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:45:13"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:45:13"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:45:13"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:45:13"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:45:13"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:45:13"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:45:13"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:45:13"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:49:31"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:49:33"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:49:33"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:49:33"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:49:33"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:49:33"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:49:33"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:49:33"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:49:33"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:50:26"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:50:28"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:50:28"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:50:28"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:50:28"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:50:28"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:50:28"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:50:28"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:50:28"}
+{"duration":22505916,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:50:34"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:52:20"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:52:21"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:52:21"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:52:22"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:52:22"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:52:22"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:52:22"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:52:22"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:52:22"}
+{"duration":20935542,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:52:36"}
+{"duration":18300791,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:54:17"}
+{"duration":28137958,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:56:06"}
+{"duration":18512125,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 20:58:34"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 20:59:28"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 20:59:30"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 20:59:30"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 20:59:30"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 20:59:30"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 20:59:30"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 20:59:30"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 20:59:30"}
+{"level":"info","msg":"Server started","time":"30-12-2023 20:59:30"}
+{"duration":34406083,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:00:21"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:01:01"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:01:03"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:01:03"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:01:04"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:01:04"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:01:04"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:01:04"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:01:04"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:01:04"}
+{"duration":15222834,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:01:13"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:01:34"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:01:36"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:01:36"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:01:36"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:01:36"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:01:36"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:01:36"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:01:36"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:01:36"}
+{"duration":25268917,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:02:24"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:03:39"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:03:41"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:03:41"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:03:41"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:03:41"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:03:41"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:03:41"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:03:41"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:03:41"}
+{"duration":20123291,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:03:57"}
+{"duration":16536542,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:04:16"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:05:32"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:05:34"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:05:34"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:05:34"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:05:34"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:05:34"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:05:34"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:05:34"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:05:34"}
+{"duration":20608625,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:05:40"}
+{"duration":17809041,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:06:17"}
+{"duration":21205000,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:08:23"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:09:23"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:09:24"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:09:25"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:09:25"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:09:25"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:09:25"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:09:25"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:09:25"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:09:25"}
+{"duration":26956708,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:09:31"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:10:14"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:10:16"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:10:16"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:10:16"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:10:16"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:10:16"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:10:16"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:10:16"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:10:16"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:10:28"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:10:30"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:10:30"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:10:30"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:10:30"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:10:30"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:10:30"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:10:30"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:10:30"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:10:45"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:10:47"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:10:47"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:10:47"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:10:47"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:10:47"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:10:47"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:10:47"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:10:47"}
+{"duration":20663959,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:11:00"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:13:33"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:13:35"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:13:35"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:13:36"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:13:36"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:13:36"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:13:36"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:13:36"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:13:36"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:13:43"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:13:44"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:13:44"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:13:45"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:13:45"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:13:45"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:13:45"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:13:45"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:13:45"}
+{"duration":31958709,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:14:07"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:15:33"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:15:34"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:15:34"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:15:35"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:15:35"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:15:35"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:15:35"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:15:35"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:15:35"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:17:09"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:17:11"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:17:11"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:17:11"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:17:11"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:17:11"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:17:11"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:17:11"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:17:11"}
+{"duration":35088209,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:17:18"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:17:59"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:18:18"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:18:18"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:18:18"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:18:18"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:18:18"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:18:18"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:18:18"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:18:18"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:18:32"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:18:34"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:18:34"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:18:34"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:18:34"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:18:34"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:18:34"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:18:34"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:18:34"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:22:10"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:22:11"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:22:11"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:22:12"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:22:12"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:22:12"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:22:12"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:22:12"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:22:12"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:22:16"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:22:17"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:22:17"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:22:18"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:22:18"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:22:18"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:22:18"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:22:18"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:22:18"}
+{"duration":19164542,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:22:31"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:23:33"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:23:34"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:23:34"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:23:35"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:23:35"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:23:35"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:23:35"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:23:35"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:23:35"}
+{"duration":34503084,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:24:48"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:25:34"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:25:36"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:25:36"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:25:36"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:25:36"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:25:36"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:25:36"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:25:36"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:25:36"}
+{"duration":18530958,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:25:42"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:26:20"}
+{"level":"info","msg":"Logger started","time":"30-12-2023 21:26:22"}
+{"function":"ConnectRedisDB","level":"info","msg":"Redis Database connected!","time":"30-12-2023 21:26:22"}
+{"function":"InitConstants","level":"info","msg":"Constants Fetched!","time":"30-12-2023 21:26:22"}
+{"level":"info","msg":"Constants initialized successfully","time":"30-12-2023 21:26:22"}
+{"function":"UpdateRedis","level":"info","msg":"Entire leaderboard updated","time":"30-12-2023 21:26:22"}
+{"level":"info","msg":"Redis updated successfully","time":"30-12-2023 21:26:22"}
+{"function":"(Simulator) Init","level":"info","msg":"Simulator was initialised successfully","time":"30-12-2023 21:26:22"}
+{"level":"info","msg":"Server started","time":"30-12-2023 21:26:22"}
+{"duration":23435791,"ip":"192.168.65.1","level":"info","method":"POST","msg":"Request","path":"/api/auction/sell","status":201,"time":"30-12-2023 21:26:50"}
+{"level":"error","msg":"Shutdown Server ...","time":"30-12-2023 21:41:42"}
